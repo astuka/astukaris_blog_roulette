@@ -1,6 +1,6 @@
 # Astukari's Blog Roulette
-Discover 500+ blogs at a touch of a button.\
-1. Download the zip and extract\
+Discover 500+ blogs at a touch of a button.
+1. Download the zip and extract
 2. Open "index.html"
 
 # To Do
